@@ -1,5 +1,5 @@
 # BFSI-Credit-Risk-Assignment
-In this assignment, you’ll be introduced to credit risk analytics in the context of the banking sector and model a common metric used for estimating the expected credit loss (ECL) - loss given default (LGD).
+In this assignment, we will go through credit risk analytics in the context of the banking sector and model a common metric used for estimating the expected credit loss (ECL) - loss given default (LGD).
 Let's hear from the SME about the various aspects of Credit Risk.
 Why is Credit Risk important in a Banking System? Let's hear what the SME says about it.
 ECL method is used for provisioning the capital buffer to protect banks against possible default of the customers. The ECL provisioning is a mandatory accounting principle set by the Basel III norms.
